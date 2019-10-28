@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class encryption{
-    /*Вывод на экран текста в формате Unicode*/
+    /*Вывод на экран текста в формате Unicode изменения*/
     private static void unicodeList(char[] code) {
         arrayList2(code);
         System.out.println();
